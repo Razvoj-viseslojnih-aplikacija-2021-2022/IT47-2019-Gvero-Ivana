@@ -9,6 +9,7 @@ import { Fakultet } from 'src/app/models/fakultet';
 import { DepartmanService } from 'src/app/services/departman.service';
 import { DepartmanDialogComponent } from '../dialogs/departman-dialog/departman-dialog.component';
 
+
 @Component({
   selector: 'app-departman',
   templateUrl: './departman.component.html',
